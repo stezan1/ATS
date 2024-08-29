@@ -15,3 +15,7 @@ Repository
 - For every change
 - Add / Staging
 - Commit
+
+Today 
+- Remote 
+- Push
