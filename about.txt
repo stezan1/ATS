@@ -1,0 +1,17 @@
+Git - Version (Source) Control System
+Who, When, What
+
+
+Similar tools: SVN, TFS, Mercurial etc.
+
+Files:
+Text: *.txt, *.xml, *.cs, *.java, *.c etc.
+Binary: Image, Video, Audio, PDF, Docx, PPT etc.
+
+Repository
+- Initialize (One time)
+- Config (One time)
+
+- For every change
+- Add / Staging
+- Commit
