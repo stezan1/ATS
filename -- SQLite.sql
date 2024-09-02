@@ -23,3 +23,17 @@ INSERT INTO Author
 VALUES (null, 'Yaswant kenetkar', 'kathmandu', '98264646736', 'Male', 'MSc CS')
 
 SELECT * FROM Author;
+
+
+create table Publication
+(
+    Id Integer PRIMARY KEY AUTOINCREMENT,
+    Name text,
+    Address text,
+    Established text
+);
+
+INSERT INTO Publication
+VALUES (null, 'Sangam Publication', 'kathmandu', '2080/02/08')
+
+select * from Publication
